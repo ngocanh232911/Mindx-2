@@ -1,0 +1,11 @@
+.body{
+    display: flex;
+}
+
+.body .body-left{
+    flex: 1;
+}
+
+.body .body-right{
+    flex: 3;
+}
